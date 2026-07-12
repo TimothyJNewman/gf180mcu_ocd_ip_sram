@@ -1,0 +1,20 @@
+magic
+tech gf180mcuD
+timestamp 1764525316
+<< error_p >>
+rect -3 2 3 3
+rect -3 -2 -2 2
+rect -3 -3 3 -2
+<< polysilicon >>
+rect -3 2 3 3
+rect -3 -2 -2 2
+rect 2 -2 3 2
+rect -3 -3 3 -2
+<< polycontact >>
+rect -2 -2 2 2
+<< metal1 >>
+rect -3 2 3 3
+rect -3 -2 -2 2
+rect 2 -2 3 2
+rect -3 -3 3 -2
+<< end >>

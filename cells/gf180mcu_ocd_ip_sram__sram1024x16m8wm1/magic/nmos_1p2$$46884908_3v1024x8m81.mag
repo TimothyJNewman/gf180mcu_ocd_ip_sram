@@ -1,0 +1,12 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1764525316
+<< polysilicon >>
+rect -7 634 20 651
+rect -7 -17 20 0
+use nmos_5p0431059130207_3v1024x8m81  nmos_5p0431059130207_3v1024x8m81_0
+timestamp 1764525316
+transform 1 0 -7 0 1 0
+box -44 -22 72 657
+<< end >>

@@ -1,0 +1,141 @@
+magic
+tech gf180mcuD
+timestamp 1764525316
+<< nwell >>
+rect -22 -21 123 84
+<< pmos >>
+rect -4 23 45 74
+rect 56 23 106 74
+<< pdiff >>
+rect -14 73 -4 74
+rect -14 24 -12 73
+rect -7 24 -4 73
+rect -14 23 -4 24
+rect 45 73 56 74
+rect 45 24 48 73
+rect 53 24 56 73
+rect 45 23 56 24
+rect 106 73 114 74
+rect 106 24 109 73
+rect 113 24 114 73
+rect 106 23 114 24
+<< pdiffc >>
+rect -12 24 -7 73
+rect 48 24 53 73
+rect 109 24 113 73
+<< psubdiff >>
+rect -12 98 113 100
+rect -12 94 -6 98
+rect 107 94 113 98
+rect -12 92 113 94
+<< nsubdiff >>
+rect -11 12 111 13
+rect -11 7 -6 12
+rect 107 7 111 12
+rect -11 3 111 7
+<< psubdiffcont >>
+rect -6 94 107 98
+<< nsubdiffcont >>
+rect -6 7 107 12
+<< polysilicon >>
+rect -4 84 106 85
+rect -4 79 5 84
+rect 101 79 106 84
+rect -4 78 106 79
+rect -4 74 45 78
+rect 56 74 106 78
+rect -4 19 45 23
+rect 56 19 106 23
+<< polycontact >>
+rect 5 79 101 84
+<< metal1 >>
+rect -12 98 113 100
+rect -12 94 -6 98
+rect 107 94 113 98
+rect -12 84 48 94
+rect 53 84 113 94
+rect -12 79 5 84
+rect 101 79 113 84
+rect -12 79 113 79
+rect -13 73 -4 74
+rect -13 61 -12 73
+rect -7 61 -4 73
+rect -13 27 -12 61
+rect -7 27 -4 61
+rect -13 24 -12 27
+rect -7 24 -4 27
+rect -13 23 -4 24
+rect 45 73 56 74
+rect 45 61 48 73
+rect 53 61 56 73
+rect 45 27 48 61
+rect 53 27 56 61
+rect 45 24 48 27
+rect 53 24 56 27
+rect 45 24 56 24
+rect 45 23 56 24
+rect 105 73 114 74
+rect 105 61 109 73
+rect 113 61 114 73
+rect 105 27 108 61
+rect 114 27 114 61
+rect 105 24 109 27
+rect 113 24 114 27
+rect 105 23 114 24
+rect -11 12 111 13
+rect -11 7 -6 12
+rect 107 7 111 12
+rect -11 3 111 7
+<< via1 >>
+rect 48 94 53 97
+rect 48 84 53 94
+rect 48 82 53 84
+rect -12 27 -12 61
+rect -12 27 -7 61
+rect -7 27 -7 61
+rect 48 27 48 61
+rect 48 27 53 61
+rect 53 27 53 61
+rect 108 27 109 61
+rect 109 27 113 61
+rect 113 27 114 61
+<< metal2 >>
+rect 47 97 54 98
+rect 47 87 48 97
+rect 53 87 54 97
+rect 47 82 47 87
+rect 53 82 54 87
+rect 47 78 54 82
+rect -13 62 114 65
+rect -13 26 -12 62
+rect -7 61 114 62
+rect -7 27 48 61
+rect 53 27 108 61
+rect 114 27 114 61
+rect -7 26 114 27
+rect -13 24 114 26
+<< via2 >>
+rect 47 82 48 87
+rect 48 82 53 87
+rect 53 82 53 87
+rect 47 82 53 82
+rect -12 61 -7 62
+rect -12 27 -7 61
+rect 108 27 114 61
+rect -12 26 -7 27
+<< metal3 >>
+rect -15 62 -5 259
+rect -15 26 -12 62
+rect -7 26 -5 62
+rect -15 0 -5 26
+rect 15 0 24 373
+rect 46 87 55 380
+rect 46 82 47 87
+rect 53 82 55 87
+rect 46 1 55 82
+rect 77 1 86 372
+rect 106 61 116 259
+rect 106 27 108 61
+rect 114 27 116 61
+rect 106 1 116 27
+<< end >>

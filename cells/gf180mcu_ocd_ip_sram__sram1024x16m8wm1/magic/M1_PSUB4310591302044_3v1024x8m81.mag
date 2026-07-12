@@ -1,0 +1,17 @@
+magic
+tech gf180mcuD
+timestamp 1765482800
+<< psubdiff >>
+rect -2 10330 24 10335
+rect -2 10329 23 10330
+rect -2 188 -1 10329
+rect 22 188 23 10329
+rect -2 183 23 188
+<< psubdiffcont >>
+rect -1 188 22 10329
+<< metal1 >>
+rect -2 10329 23 10329
+rect -2 188 -1 10329
+rect 22 188 23 10329
+rect -2 188 23 188
+<< end >>

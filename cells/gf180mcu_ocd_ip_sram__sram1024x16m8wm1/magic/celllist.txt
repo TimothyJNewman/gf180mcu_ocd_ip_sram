@@ -1,0 +1,40 @@
+List of cells
+(for keeping track of which contacts and devices have been edited)
+------------------------------------------------------------------
+Top level cell (not being edited):
+------------------------------------------------------------------
+
+gf180mcu_ocd_ip_sram__sram1024x16m8wm1
+
+------------------------------------------------------------------
+Other cells not being edited (all share 3v1024x8m81 suffix):
+------------------------------------------------------------------
+
+control_3v1024x8_3v1024x8m81
+lcol4_1024_3v1024x8m81
+rcol4_1024_3v1024x8m81
+xdec128_3v1024x8m81
+col_1024a_3v1024x8m81
+gen_3v1024x8_3v1024x8m81
+wen_wm1_3v1024x8m81
+din_3v1024x8m81
+mux821_3v1024x8m81
+sa_3v1024x8m81
+saout_m2_3v1024x8m81
+outbuf_oe_3v1024x8m81
+alatch_3v1024x8m81
+rarray4_1024_3v1024x8m81
+ldummy_3v512x4_3v1024x8m81
+rdummy_3v512x4_3v1024x8m81
+prexdec_top_3v1024x8m81
+xdec32_3v1024x8m81
+xdec64_3v1024x8m81
+xdec8_3v1024x8m81
+xpredec0_3v1024x8m81
+xpredec1_3v1024x8m81
+ypredec1_3v1024x8m81
+ypass_gate_3v1024x8m81
+G_ring_3v1024x8m81
+power_a_3v1024x8m81
+power_route_3v1024x8m81
+sacntl_2_3v1024x8m81

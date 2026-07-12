@@ -1,0 +1,16 @@
+magic
+tech gf180mcuD
+timestamp 1764525316
+<< metal2 >>
+rect -3 52 3 53
+rect -3 -52 -2 52
+rect 2 -52 3 52
+rect -3 -53 3 -52
+<< via2 >>
+rect -2 -52 2 52
+<< metal3 >>
+rect -3 52 3 53
+rect -3 -52 -2 52
+rect 2 -52 3 52
+rect -3 -53 3 -52
+<< end >>
